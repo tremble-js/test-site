@@ -8,7 +8,7 @@ body {
     font-family: 'Oxygen', sans-serif;
     font-size: 1.2rem;
     color: #333533;
-    background-color: #FF4E11;
+    background-color: #FF4E01;
 }
 
 h1,
@@ -67,12 +67,12 @@ footer a {
 
 @media (max-width:801px) {
   body {
-    background-color: #00FF01;
+    background-color: #00FF00;
   }
 }
 
 @media (max-width:641px) {
   body {
-    background-color: #1000FF;
+    background-color: #0000FF;
   }
 }
